@@ -55,4 +55,14 @@ or,
 
 `[anup@rhel-92-04 ~]$ strace -eopenat kubectl version`
 
+`[anup@rhel-92-04 ~]$ kubectl config view --flatten`
+
+`[anup@rhel-92-04 ~]$ kubectl get nodes`
+
+`[anup@rhel-92-04 ~]$ kubectl get pods`
+
+`[anup@rhel-92-04 ~]$ kubectl get replicaset`
+
+`[anup@rhel-92-04 ~]$ kubectl get service`
+
 <br>
